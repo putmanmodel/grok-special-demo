@@ -7,7 +7,7 @@
 
 ## 🖼️ Demo Preview
 
-*(Insert GIF or screenshot of the demo in action here)*  
+*![Demo Preview](screenshot.png)*  
 *Example: NPC floating orbs shifting color while log updates pulse-by-pulse.*
 
 ---
